@@ -10,7 +10,9 @@
 
 My name is Joshua Blevins, I am a self-taught web developer. I have been working as a professional React developer since 2017. I have been on two design system teams one as a developer and one as a technical lead. My current goal is to build a component library that is WCAG AAA compliant out of the box, comes with no styles, and doesn't hide content from search engine spiders.
 
-## My Technologies
+### My Technologies
+
+
 
 <!-- [website]: -->
 <!-- [twitter]:  -->
