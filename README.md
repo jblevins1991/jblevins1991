@@ -41,6 +41,7 @@ My name is Joshua Blevins, I am a self-taught web developer. I have been working
 - Sequelize
 - Styled Components
 - Tailwind CSS
+- Web Accessibility
 - Webpack
 
 ### Technologies I want to understand
@@ -51,7 +52,8 @@ My name is Joshua Blevins, I am a self-taught web developer. I have been working
 - Ingress Configuration
 - Kubernetes Secret Management
 - Mesaging Services (Kafka and RabbitMQ)
-- Spring Boot
+- Ktor
+- Expose ORM
 
 <!-- [website]: -->
 <!-- [twitter]:  -->
