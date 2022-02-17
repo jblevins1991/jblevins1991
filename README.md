@@ -46,6 +46,7 @@ My name is Joshua Blevins, I am a self-taught web developer. I have been working
 
 ### Technologies I want to understand
 
+- Firebase
 - Flannel
 - gRCP
 - Istio
