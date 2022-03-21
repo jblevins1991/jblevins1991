@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - I'm currently working on web a11y and design systems.
-- I'm currently learning Shopify's Hydrogen framework.
-- I'm looking to collaborate on building tools to make design systems easier.
-- I'm looking for help with color theory.
+- I'm currently working on a compenent library designed for design systems.
+- I'm currently building my portfolio website with sveltekit.
 - Ask me about a11y.
 - How to reach me: email.
 - Fun fact: I like to play guitar.
@@ -23,20 +22,19 @@ My name is Joshua Blevins, I am a self-taught web developer. I have been working
 - Github Actions
 - Github Packages (both code dependencies and docker packages)
 - Go
-- Java
 - Kotlin
 - Kubernetes
 - Prisma GraphQL
 - Module Federation
 - MongoDB
 - Mongoose
-- MySQL
-- Neo4j
 - PostgreSQL
 - Python
+- Svelte
 - React
 - Redux
 - Rollup
+- Webpack
 - SASS
 - Sequelize
 - Styled Components
@@ -46,6 +44,7 @@ My name is Joshua Blevins, I am a self-taught web developer. I have been working
 
 ### Technologies I want to understand
 
+- React Query
 - Firebase
 - Flannel
 - gRCP
@@ -67,6 +66,8 @@ My name is Joshua Blevins, I am a self-taught web developer. I have been working
 [Typescript]: https://www.typescriptlang.org/
 [Webpack]: https://webpack.js.org/
 [Rollup]: https://www.rollupjs.org/guide/en/
+[sveltekit]: 
+[next]: 
 [React]: https://reactjs.org/
 [Redux]: https://redux.js.org/
 [Express]: http://expressjs.com/
